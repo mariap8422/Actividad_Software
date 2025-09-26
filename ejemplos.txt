@@ -1,0 +1,5 @@
+Aquí irán los ejemplos del tema (aplicaciones, versiones, casos...)
+Ejemplos de iOS:
+- Aplicaciones: Safari, iMessage, FaceTime
+- Versiones: iOS 14, iOS 15, iOS 16
+- Casos: Uso en iPhone, iPad, iPod Touch
